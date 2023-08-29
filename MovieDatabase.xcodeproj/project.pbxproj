@@ -25,6 +25,13 @@
 /* Begin PBXFileReference section */
 		6AEA93942A9DA066003DD59F /* MovieDatabase */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MovieDatabase; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AEA93972A9DA066003DD59F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		6AEA939E2A9DA197003DD59F /* BinaryNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinaryNode.h; sourceTree = "<group>"; };
+		6AEA939F2A9DA1C7003DD59F /* BinarySearchTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinarySearchTree.h; sourceTree = "<group>"; };
+		6AEA93A02A9DA1FF003DD59F /* BinaryTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinaryTree.h; sourceTree = "<group>"; };
+		6AEA93A12A9DA219003DD59F /* HashNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HashNode.h; sourceTree = "<group>"; };
+		6AEA93A22A9DA236003DD59F /* HashTable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HashTable.h; sourceTree = "<group>"; };
+		6AEA93A32A9DA254003DD59F /* Movie.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Movie.h; sourceTree = "<group>"; };
+		6AEA93A52A9DA423003DD59F /* StackADT.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StackADT.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +65,13 @@
 			isa = PBXGroup;
 			children = (
 				6AEA93972A9DA066003DD59F /* main.cpp */,
+				6AEA939E2A9DA197003DD59F /* BinaryNode.h */,
+				6AEA939F2A9DA1C7003DD59F /* BinarySearchTree.h */,
+				6AEA93A02A9DA1FF003DD59F /* BinaryTree.h */,
+				6AEA93A12A9DA219003DD59F /* HashNode.h */,
+				6AEA93A22A9DA236003DD59F /* HashTable.h */,
+				6AEA93A32A9DA254003DD59F /* Movie.h */,
+				6AEA93A52A9DA423003DD59F /* StackADT.h */,
 			);
 			path = MovieDatabase;
 			sourceTree = "<group>";
